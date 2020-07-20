@@ -1,5 +1,5 @@
 # Aplicativo Buscador de GIFs
-#### Aplicativo Mobile desenvolvido em Flutter utilizando API do Giphy Developers.
+#### Aplicativo Mobile desenvolvido em Flutter + Dart utilizando API do Giphy Developers.
 <hr>
 
 ## Introdução 🤓
@@ -7,6 +7,7 @@ Esta é uma implementação simples de um aplicativo desenvolvido em Flutter que
 
 ### Pré requesitos ✋
 * Flutter
+* Dart
 * API Giphy Developer
 * Versões recentes das API Share, HTTP e Transparente Image.
 
