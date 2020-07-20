@@ -16,3 +16,5 @@ Conecte o seu celular, já em modo desenvoledor, via USB na sua máquina. O Andr
 
 ## GIF de funcionamento da aplicação 🖥️
 ![Funcionamento do Aplicativo](https://github.com/paulodias99/AppBuscadorGIFs/blob/master/videoappgif.gif)
+<img src "https://github.com/paulodias99/AppBuscadorGIFs/blob/master/videoappgif.gif" 
+height="150"> width="150">
