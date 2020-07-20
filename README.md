@@ -15,4 +15,4 @@ Esta é uma implementação simples de um aplicativo desenvolvido em Flutter que
 Conecte o seu celular, já em modo desenvoledor, via USB na sua máquina. O Android Studio reconhecerá o seu celular e disponibilizará a função de <i>buildar</i> o aplicativo diretamente nele. Basta clicar em ▶️ <i>run</i> com a opção do seu dispositivo móvel selecionada.
 
 ## GIF de funcionamento da aplicação 🖥️
-![Funcionamento do Aplicativo](https://github.com/paulodias99/AppBuscadorGIFs/blob/master/videoappgif.gif)
+<img src="https://github.com/paulodias99/AppBuscadorGIFs/blob/master/videoappgif.gif" height="380" width="200" />
