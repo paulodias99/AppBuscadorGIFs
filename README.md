@@ -5,7 +5,7 @@
 ## Introdução 🤓
 Esta é uma implementação simples de um aplicativo desenvolvido em Flutter que funciona como um buscador de GIFs. Utilizo também outros plugins para as funções de compartilhar nas redes sociais, animações e protocolo http.
 
-### Pré requesitos ✋
+### Pré requisitos ✋
 * Flutter
 * Dart
 * API Giphy Developer
