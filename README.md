@@ -1,16 +1,17 @@
-# buscador_gifs
+# Aplicativo Buscador de GIFs
+#### Aplicativo Mobile desenvolvido em Flutter utilizando API do Giphy Developers.
+<hr>
 
-A new Flutter application.
+## Introdução 🤓
+Esta é uma implementação simples de um aplicativo desenvolvido em Flutter que funciona como um buscador de GIFs. Utilizo também outros plugins para as funções de compartilhar nas redes sociais, animações e protocolo http.
 
-## Getting Started
+### Pré requesitos ✋
+* Flutter
+* API Giphy Developer
+* Versões recentes das API Share, HTTP e Transparente Image.
 
-This project is a starting point for a Flutter application.
+### Rodar a aplicação pelo Android Studio no celular 🏃 
+Conecte o seu celular, já em modo desenvoledor, via USB na sua máquina. O Android Studio reconhecerá o seu celular e disponibilizará a função de <i>buildar</i> o aplicativo diretamente nele. Basta clicar em ▶️ <i>run</i> com a opção do seu dispositivo móvel selecionada.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## GIF de funcionamento da aplicação 🖥️
+![Funcionamento do Aplicativo](https://github.com/paulodias99/AppBuscadorGIFs/blob/master/videoappgif.gif)
